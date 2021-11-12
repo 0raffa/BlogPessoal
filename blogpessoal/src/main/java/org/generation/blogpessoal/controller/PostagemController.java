@@ -2,7 +2,6 @@ package org.generation.blogpessoal.controller;
 
 import java.util.List;
 
-import org.apache.catalina.connector.Response;
 import org.generation.blogpessoal.model.Postagem;
 import org.generation.blogpessoal.repository.PostagemRepository;
 import org.springframework.beans.factory.annotation.Autowired;
